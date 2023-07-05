@@ -1,0 +1,1 @@
+Simple application with OpenAI API to use in the terminal, But this time, using the taper and rich libraries to give more functionality.
